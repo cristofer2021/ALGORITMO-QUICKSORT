@@ -1,0 +1,96 @@
+		--------ElEMENTOS INGRESADOS/DESORDENADOS------------
+
+A[0] = 1		--------ElEMENTOS ORDENADOS-QUICKSORT------------
+
+A[0] = 1		--------ElEMENTOS INGRESADOS/DESORDENADOS------------
+
+A[0] = 4A[1] = 6A[2] = 7A[3] = 6A[4] = 4		--------ElEMENTOS ORDENADOS-QUICKSORT------------
+
+A[0] = 4A[1] = 4A[2] = 6A[3] = 6A[4] = 7		--------ElEMENTOS INGRESADOS/DESORDENADOS------------
+
+Arreglo[0] = 1Arreglo[1] = 2		--------ElEMENTOS ORDENADOS-QUICKSORT------------
+
+A[0] = 1A[1] = 2		--------ElEMENTOS INGRESADOS/DESORDENADOS------------
+
+Arreglo[0] = 4Arreglo[1] = 6Arreglo[2] = 7Arreglo[3] = 89Arreglo[4] = 9		--------ElEMENTOS ORDENADOS-QUICKSORT------------
+
+A[0] = 4A[1] = 6A[2] = 7A[3] = 9A[4] = 89		--------ElEMENTOS INGRESADOS/DESORDENADOS------------
+
+Arreglo[0] = 2Arreglo[1] = 4Arreglo[2] = 5Arreglo[3] = 6Arreglo[4] = 3Arreglo[5] = 7Arreglo[6] = 85Arreglo[7] = 1		--------ElEMENTOS ORDENADOS-QUICKSORT------------
+
+A[0] = 1A[1] = 2A[2] = 3A[3] = 4A[4] = 5A[5] = 6A[6] = 7A[7] = 85
+			*******************
+			ElEMENTOS INGRESADOS/DESORDENADOS
+			************
+
+Arreglo[0] = 1		--------ElEMENTOS ORDENADOS-QUICKSORT------------
+
+A[0] = 1
+			*******************
+			ElEMENTOS INGRESADOS/DESORDENADOS
+			************
+
+Arreglo[0] = 1Arreglo[1] = 5		--------ElEMENTOS ORDENADOS-QUICKSORT------------
+
+[0] = 1[1] = 5
+			*******************
+			ElEMENTOS INGRESADOS/DESORDENADOS
+			************
+
+Arreglo[0] = 4Arreglo[1] = 5		--------ElEMENTOS ORDENADOS-QUICKSORT------------
+
+45
+			*******************
+			ElEMENTOS INGRESADOS/DESORDENADOS
+			************
+
+Arreglo[0] = 1Arreglo[1] = 5		--------ElEMENTOS ORDENADOS-QUICKSORT------------
+
+15
+			*******************
+			ElEMENTOS INGRESADOS/DESORDENADOS
+			************
+
+Arreglo[0] = 1Arreglo[1] = 5		--------ElEMENTOS ORDENADOS-QUICKSORT------------
+
+[1][5]
+			*******************
+			ElEMENTOS INGRESADOS/DESORDENADOS
+			************
+
+Arreglo[0] = 4Arreglo[1] = 5
+			******************************
+			ElEMENTOS ORDENADOS-QUICKSORT
+			*****************************
+
+[4][5]
+			*******************
+			ElEMENTOS INGRESADOS/DESORDENADOS
+			************
+
+Arreglo[0] = 4Arreglo[1] = 5
+			******************************
+			ElEMENTOS ORDENADOS-QUICKSORT
+			*****************************
+
+[4][5]
+			*******************
+			ElEMENTOS INGRESADOS/DESORDENADOS
+			*****************
+
+Arreglo[0] = 1Arreglo[1] = 4
+			******************************
+			ElEMENTOS ORDENADOS-QUICKSORT
+			*****************************
+
+[1][4]
+			*******************
+			ElEMENTOS INGRESADOS/DESORDENADOS
+			*****************
+
+Arreglo[0] = 1Arreglo[1] = 4
+			******************************
+			ElEMENTOS ORDENADOS-QUICKSORT
+			*****************************
+
+[1][4]
